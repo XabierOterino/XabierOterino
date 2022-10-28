@@ -15,7 +15,7 @@
 
 - 📄 Know about my experience : 
     - [@Moralis Academy certified student](https://github.com/MoralisWeb3)
-    - [Currently creating a open source project.](https://github.com/Nebula-Fi?tab=repositories)
+    - [Currently creating a open source project.]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
