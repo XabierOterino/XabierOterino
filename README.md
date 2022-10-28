@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript, Python, Rust**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-xabier-oterino.vercel.app/](https://personal-portfolio-xabier-oterino.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://xabieroterino-portfolio.vercel.app/](https://xabieroterino-portfolio.vercel.app/)
 
 - 📫 How to reach me **xabierblockchain@gmail.com**
 
